@@ -1,0 +1,11 @@
+{
+  "watermark": {
+    "enabled": false
+  },
+  "models": {
+    "text": "agnes-3.0-flash",
+    "image": "agnes-image-2.5-flash",
+    "video": "agnes-video-2.5-flash",
+    "text_provider": "tilinx"
+  }
+}
