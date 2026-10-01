@@ -92,3 +92,9 @@ MIT — original agradece upstream; este proyecto es el rebrand TilinX.
 ---
 
 Hecho con ❤️ por **TilinX (H Bencosme)** — creador de tilinXcode.
+
+---
+
+## 🙏 Créditos
+
+APIs, backend, tareas e interfaz original: **Agnes Video Generator** (https://platform.agnes-ai.com). Este repo es un rebrand TilinX sobre su código abierto. Ver ATTRIBUTION.md.
