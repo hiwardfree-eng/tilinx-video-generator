@@ -1,0 +1,49 @@
+# ===== TilinX Video Generator — .gitignore =====
+# SECRETOS — nunca subir
+.env
+*.env
+.env.*
+!.env.example
+**/keys.json
+
+# tokens / credenciales
+*.pem
+*.key
+auth/
+creds.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.working_dir/
+
+# node
+node_modules/
+frontend/node_modules/
+
+# generado / render / modelos
+models/
+images/
+static/assets/
+*.mp4
+*.m4a
+*.webm
+*.png
+*.jpg
+*.jpeg
+!static/favicon.ico
+!static/icon.png
+
+# logs y temporales
+*.log
+tmp/
+reports/
+output/
+
+# sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
