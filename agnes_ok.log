@@ -1,0 +1,11 @@
+INFO:     Started server process [24428]
+INFO:     Waiting for application startup.
+2026-09-30 20:48:07,417 [INFO] core.api.error_collector: [ErrorCollector] Workspace root set to C:\TILINX\agnes\.working_dir
+2026-09-30 20:48:07,417 [INFO] web.app_state: [Startup] Reset stale running task 20260930_181929_2e1fd3c9e968 -> pending
+2026-09-30 20:48:08,197 [INFO] core.audio.voices: [Voices] Loaded catalog: 206 voices across 22 languages
+2026-09-30 20:48:08,197 [INFO] __main__: [Startup] Voice catalog loaded
+2026-09-30 20:48:08,214 [INFO] core.compositor.ffmpeg_tool: [Compositor] ffmpeg: system C:\Users\Chichi\AppData\Local\Microsoft\WinGet\Links\ffmpeg.EXE
+2026-09-30 20:48:08,214 [INFO] __main__: [Compositor] ffmpeg resolved: C:\Users\Chichi\AppData\Local\Microsoft\WinGet\Links\ffmpeg.EXE
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8765 (Press CTRL+C to quit)
+INFO:     127.0.0.1:48189 - "GET / HTTP/1.1" 200 OK
