@@ -1,0 +1,969 @@
+INFO:     127.0.0.1:45965 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2020 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2020 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52047 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52047 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2020 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1361 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30853 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2020 - "GET /static/favicon.ico HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31710 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14543 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19867 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19867 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19867 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28732 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45891 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12813 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12813 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /static/favicon.ico HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12813 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15540 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47317 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47317 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62863 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47317 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62863 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58360 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19783 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54100 - "GET /static/assets/es-DKx-teoF.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58360 - "GET /static/favicon.ico HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:26692 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26692 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64377 - "POST /api/tasks/creative HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:54341 - "GET /api/presets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1312 - "GET /api/voices/preview?voice=es-CL-LorenzoNeural&text=Hola%2C%20soy%20Lorenzo%2C%20esta%20es%20una%20muestra%20de%20voz. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65499 - "POST /api/tasks/creative HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1312 - "GET /static/icon.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "POST /api/tasks/creative HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:61574 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27762 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10249 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28713 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51980 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28713 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27004 - "GET /static/assets/es-DKx-teoF.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51980 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61574 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4212 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4212 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4212 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Astory/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25952 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Ascript/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15072 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15072 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30052 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30052 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46992 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46992 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46992 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Aend_frame_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24375 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24375 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24375 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Aend_frame%3A0/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43182 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43182 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43182 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Aend_frame%3A1/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14830 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14830 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40608 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40608 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40608 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Aend_frame%3A2/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17680 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17680 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43444 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43444 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28242 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28242 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36116 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36116 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29322 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29322 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31141 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31141 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6777 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6777 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4645 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4645 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64545 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64545 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51666 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51666 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5767 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5767 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5767 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:65158 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:65158 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38303 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:47154 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29280 - "GET /static/icon.png HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:29280 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:30591 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30591 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30591 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38993 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38993 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:49669 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:47492 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:22873 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:11425 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6197 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29428 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29428 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27992 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:54101 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:27992 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:27992 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+MoviePy - Building video C:\TILINX\agnes\.working_dir\20260930_172702_f5c406f2b0e1\final_video.mp4.
+MoviePy - Writing audio in final_videoTEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+MoviePy - Writing video C:\TILINX\agnes\.working_dir\20260930_172702_f5c406f2b0e1\final_video.mp4
+
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1917 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:12068 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12068 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6725 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6725 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44253 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44253 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21015 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21015 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41261 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41261 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48346 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48346 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14359 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14359 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+MoviePy - Done !
+MoviePy - video ready C:\TILINX\agnes\.working_dir\20260930_172702_f5c406f2b0e1\final_video.mp4
+INFO:     127.0.0.1:35042 - "GET /api/tasks/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34752 - "GET /api/tasks/f5c406f2b0e1/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35042 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34752 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34752 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:32854 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:37291 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:25518 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42960 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:52087 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:44787 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Acharacter_ref/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5724 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:18639 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1504 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Astory/cascade-preview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20042 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Astory/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60214 - "GET /api/video/f5c406f2b0e1 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1029 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55469 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33285 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5683 - "GET /static/favicon.ico HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:5683 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:33285 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:33285 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:44664 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:52610 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:44020 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47517 - "POST /api/config/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47517 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47517 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:51185 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:51805 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:51805 - "POST /api/tasks/anchor HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:7473 - "GET /static/favicon.ico HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:41390 - "POST /api/tasks/creative HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41390 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41390 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33196 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47852 - "POST /api/creative/preview-script HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47852 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47852 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:33196 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:33196 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47852 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47167 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50530 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20215 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33196 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44755 - "GET /static/assets/es-DKx-teoF.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:20215 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33196 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50530 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20215 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20215 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50530 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Astory/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33196 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20215 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50530 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11140 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11140 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11140 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Ascript/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6160 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6160 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6160 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aend_frame_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34255 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34255 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34255 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aend_frame%3A0/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51884 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51884 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6109 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6109 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32277 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32277 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33249 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33249 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39174 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aend_frame%3A1/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4217 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aend_frame%3A2/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4217 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4217 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8744 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8744 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56977 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56977 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19755 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19755 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1978 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1978 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40620 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40620 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21845 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21845 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38540 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38540 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38540 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:52991 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:36310 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:23549 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:36310 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:23549 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:53470 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:19335 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6306 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6306 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40259 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40259 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+MoviePy - Building video C:\TILINX\agnes\.working_dir\20260930_180237_73e3f0496ad0\final_video.mp4.
+MoviePy - Writing audio in final_videoTEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+MoviePy - Writing video C:\TILINX\agnes\.working_dir\20260930_180237_73e3f0496ad0\final_video.mp4
+
+INFO:     127.0.0.1:32943 - "GET /static/icon.png HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:32943 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:43193 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:43193 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43193 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43193 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63258 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14483 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:15361 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14483 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14483 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:51261 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:40502 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18861 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:26340 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:40502 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58774 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29000 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29000 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6129 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6129 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51897 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35615 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37729 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27435 - "GET /static/favicon.ico HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:3423 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:27435 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:37729 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:37729 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:62399 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63405 - "GET /api/gallery/thumbnail/f5c406f2b0e1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63405 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27529 - "GET /api/voices/preview?voice=es-EC-AndreaNeural&text=Hola%2C%20soy%20Andrea%2C%20esta%20es%20una%20muestra%20de%20voz. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27529 - "GET /api/voices/preview?voice=es-PE-CamilaNeural&text=Hola%2C%20soy%20Camila%2C%20esta%20es%20una%20muestra%20de%20voz. HTTP/1.1" 200 OK
+MoviePy - Done !
+MoviePy - video ready C:\TILINX\agnes\.working_dir\20260930_180237_73e3f0496ad0\final_video.mp4
+INFO:     127.0.0.1:38385 - "GET /api/voices/preview?voice=en-US-AriaNeural&text=Hello%2C%20I%27m%20Aria%2C%20this%20is%20a%20voice%20preview%20sample. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38385 - "GET /api/voices/preview?voice=en-CA-ClaraNeural&text=Hello%2C%20I%27m%20Clara%2C%20this%20is%20a%20voice%20preview%20sample. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38385 - "GET /api/voices/preview?voice=en-US-SteffanNeural&text=Hello%2C%20I%27m%20Steffan%2C%20this%20is%20a%20voice%20preview%20sample. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38385 - "GET /api/voices/preview?voice=en-US-GuyNeural&text=Hello%2C%20I%27m%20Guy%2C%20this%20is%20a%20voice%20preview%20sample. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38385 - "GET /api/voices/preview?voice=en-ZA-LukeNeural&text=Hello%2C%20I%27m%20Luke%2C%20this%20is%20a%20voice%20preview%20sample. HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1386 - "POST /api/tasks/manuscript HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1386 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1386 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:33419 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:33419 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1386 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39956 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33419 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13696 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38942 - "GET /static/assets/es-DKx-teoF.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:13696 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33419 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8471 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33419 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51652 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51652 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51652 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Ascene_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14867 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14867 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20887 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20887 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8654 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24103 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18310 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8654 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18310 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:24103 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8654 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8654 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8654 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8654 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8654 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:36433 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41192 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Ascene_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36433 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41192 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50707 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48920 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38299 - "GET /api/gallery/thumbnail/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42488 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42488 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:50724 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8811 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:9250 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9250 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13113 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23208 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65307 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29562 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30439 - "GET /api/tasks/73e3f0496ad0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30439 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29562 - "GET /api/tasks/73e3f0496ad0/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65307 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30439 - "GET /api/video/73e3f0496ad0 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29562 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Astory/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23208 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Ascript/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13113 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aend_frame_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9250 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65307 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29562 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23208 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:13113 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:9250 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6564 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29562 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:53167 - "GET /api/video/73e3f0496ad0 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:23208 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23208 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1689 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Acharacter_ref/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41192 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6564 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:53167 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29562 - "GET /api/video/73e3f0496ad0 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6564 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:41192 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:63713 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:63713 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39846 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42007 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34879 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34064 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34879 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42007 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42007 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34887 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34887 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6153 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2289 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29800 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21170 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39308 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39308 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21170 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29800 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39308 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39308 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29800 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Ascene_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39308 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29800 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29800 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8832 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8832 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29889 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29889 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23940 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23940 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55462 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55462 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54867 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54867 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30775 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30775 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24861 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24861 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21410 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21410 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7992 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7992 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30001 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30001 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10563 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10563 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26571 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26571 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54138 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54138 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64869 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64869 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28448 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28448 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31279 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31279 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24421 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24421 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2478 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2478 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2478 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:56563 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56563 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56563 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6208 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8055 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:24422 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8055 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:24422 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46804 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28965 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6330 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:2920 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7970 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:15145 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15145 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15145 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:17819 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58359 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58359 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:11544 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39279 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39279 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53409 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46195 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:64052 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:48933 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:4573 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:54446 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:4132 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4132 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50982 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50982 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13672 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13672 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48224 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48224 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17356 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17356 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17356 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39454 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39454 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7685 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7685 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7685 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:9189 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:60376 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42940 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42940 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:60376 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+MoviePy - Building video C:\TILINX\agnes\.working_dir\20260930_181929_2e1fd3c9e968\final_video_silent.mp4.
+MoviePy - Writing audio in final_video_silentTEMP_MPY_wvf_snd.mp4
+INFO:     127.0.0.1:28915 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28915 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28915 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44333 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55268 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55268 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+MoviePy - Done.
+MoviePy - Writing video C:\TILINX\agnes\.working_dir\20260930_181929_2e1fd3c9e968\final_video_silent.mp4
+
+INFO:     127.0.0.1:29004 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29004 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26799 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26799 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24672 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24672 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13118 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13118 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4657 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4657 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4700 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4700 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26047 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26047 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17929 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17929 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19097 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19097 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41786 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41786 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63325 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63325 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4165 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4165 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25004 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25004 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9994 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9994 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49252 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49252 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48809 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48809 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50254 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50254 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1400 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1400 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47363 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47363 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63743 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63743 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31151 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31151 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54955 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54955 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51015 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33640 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33640 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25969 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25969 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17956 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17956 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3709 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3709 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48373 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48373 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59748 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59748 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23525 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23525 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63376 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63376 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40036 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40036 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53225 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53225 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31481 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31481 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31018 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31018 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1481 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1481 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1683 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1683 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22815 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22815 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60989 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60989 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35843 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35843 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65140 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65140 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58339 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58339 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45290 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45290 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61135 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61135 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1841 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1841 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25177 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25177 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34942 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34942 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36389 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36389 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29725 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29725 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22764 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22764 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61487 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61487 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1377 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1377 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11033 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11033 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52053 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52053 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16559 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16559 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53640 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53640 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7182 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7182 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5430 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5430 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1567 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1567 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8028 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8028 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38399 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38399 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19626 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19626 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9245 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9245 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55530 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55530 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6623 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6623 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46479 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46479 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65234 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65234 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34696 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34696 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9605 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9605 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30122 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30122 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62643 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62643 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54891 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54891 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38368 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38368 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61163 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61163 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+MoviePy - Done !
+MoviePy - video ready C:\TILINX\agnes\.working_dir\20260930_181929_2e1fd3c9e968\final_video_silent.mp4
+INFO:     127.0.0.1:44224 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44224 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+MoviePy - Building video C:\TILINX\agnes\.working_dir\20260930_181929_2e1fd3c9e968\final_video.mp4.
+MoviePy - Writing audio in final_videoTEMP_MPY_wvf_snd.mp4
+INFO:     127.0.0.1:57060 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57060 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27756 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27756 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+MoviePy - Done.
+MoviePy - Writing video C:\TILINX\agnes\.working_dir\20260930_181929_2e1fd3c9e968\final_video.mp4
+
+INFO:     127.0.0.1:53858 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53858 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53858 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:27551 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27551 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20280 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20280 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27900 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27900 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23613 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23613 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25458 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25458 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33428 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33428 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32100 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32100 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5880 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5880 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26145 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26145 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46943 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46943 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25929 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25929 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1859 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1859 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13099 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13099 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8638 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8638 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46746 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46746 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46260 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46260 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41313 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41313 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24172 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24172 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7858 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7858 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3712 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3712 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36608 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36608 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1900 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1900 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28703 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28703 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42341 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42341 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45946 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45946 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35314 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35314 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30755 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30755 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37052 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37052 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25205 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47649 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63069 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63069 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55403 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55403 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1738 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1738 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8891 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8891 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27261 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27261 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33657 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33657 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43991 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42949 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Ascene_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26502 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43991 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:52369 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:65306 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:53496 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42949 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26502 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:42949 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:2181 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:32853 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:22813 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1870 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1083 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7126 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:52303 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14381 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:19794 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:51923 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1083 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7126 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:52303 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:51923 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14381 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:19794 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7126 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1083 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39322 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1557 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:5088 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:3254 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38023 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6420 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:63343 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:21237 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:59475 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58928 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58928 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2261 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2261 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35501 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:2261 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8811 - "GET /static/icon.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27225 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46009 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:32956 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:47015 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:63312 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:57200 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:64277 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55035 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8811 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29425 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58790 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:64925 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1951 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55498 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:18561 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:18561 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18561 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38754 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:51427 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:41032 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:59764 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:44873 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55892 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:61312 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8408 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55846 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:15479 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28329 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:13183 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46256 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:5217 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:23586 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:29965 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:17170 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:12053 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55294 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:22320 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:62801 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:30177 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:57139 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58321 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34536 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62293 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:8422 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:34536 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14322 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14322 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1772 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39082 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:14863 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39587 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39587 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39082 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:40234 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39587 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:17555 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:30449 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:31432 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20085 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:22675 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38197 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39082 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:39082 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39082 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36069 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:22256 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:24224 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:3201 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:1643 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:3297 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:18806 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38875 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:65095 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:25219 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:45865 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:25847 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:27916 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:21657 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:11802 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11802 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16315 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:11802 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:7792 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:38834 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38834 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55629 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22215 - "GET /static/assets/index-D9sLMHUd.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55629 - "GET /static/assets/index-KzCkI4Os.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55629 - "GET /api/config/keys HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22215 - "GET /api/config/text-providers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53076 - "GET /api/gallery?filter=all&status=all HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29705 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46070 - "GET /static/assets/es-DKx-teoF.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/workspaces HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29705 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:53076 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:12843 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22215 - "GET /api/tasks/f5c406f2b0e1/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46070 - "GET /api/tasks/73e3f0496ad0/artifacts/creative%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:12843 - "GET /api/models HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/voices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46070 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46070 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Ascene_prompts/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Asubtitle/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22215 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55629 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:25507 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:49669 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46070 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12843 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46070 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:45146 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:17185 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28740 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:33087 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:5437 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Aaudio/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46364 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:64265 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Afinal_video/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28740 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:5132 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:16586 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:41925 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46364 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:57686 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28740 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:41925 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A5/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:46364 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A6/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:28740 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:23453 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:43971 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:43971 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:45419 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:45427 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:33580 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33580 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2499 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A0/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:13580 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A1/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:57948 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:45753 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A4/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:32152 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:6602 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:65055 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A3/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A2/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968/artifacts/manuscript%3Avideo%3A7/file HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20191 - "GET /api/tasks/2e1fd3c9e968/artifacts HTTP/1.1" 200 OK
